@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Models",
+    "\\Models\\Account",
+    "\\Pages",
+    "\\Pages\\Account",
+    "\\Pages\\Users",
+    "\\Properties",
+    "\\Services",
+    "\\Shared",
+    "\\wwwroot"
+  ],
+  "SelectedNode": "\\Pages\\Users\\Add.razor",
+  "PreviewInSolutionExplorer": false
+}
