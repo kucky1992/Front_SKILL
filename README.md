@@ -1,4 +1,4 @@
-# blazor-webassembly-registration-login-example
+# blazor-webassembly-registration-login-example1
 
 ASP.NET Core Blazor WebAssembly - User Registration and Login Example & Tutorial
 
